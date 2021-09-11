@@ -8,33 +8,35 @@
 
 1.  ### BackEnd
 
-Java 11LTS
+    Java 11LTS
 
-Spring
+    Spring
 
-PostgreeSql
+    PostgreeSql
 
-* Postman
+    * Postman
 
-* Gerenciador de Dependencias Maven
+    * Gerenciador de Dependencias Maven
 
-* IDE: Spring Tools Suite
+    * IDE: Spring Tools Suite
 
-*Deploy do backend no Heroku*
+
+    *Deploy do backend no Heroku*
+
 
 2. ### FrontEnd
 
-React
+    React
 
-TypesCript
+    TypesCript
 
-HTML
+    HTML
 
-CSS
+    CSS
 
-*IDE: VS Code
+    *IDE: VS Code
 
-*Deploy do frontend no Netlify*
+    *Deploy do frontend no Netlify*
 
-link da Aplicação:
-<https://dsvendas-evandro.netlify.app>
+
+link da Aplicação: <https://dsvendas-evandro.netlify.app>
