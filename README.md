@@ -1,7 +1,6 @@
-# Project-sds4 by *Evandro Novais*
+# Project-sds4 (Dashboard de vendas)
 
-
-## Projeto desenvolvido na semana Spring React 4.0 admistrada por DevSuperior, Professor *Nelio Alves*.
+## Projeto desenvolvido na semana Spring React 4.0 ministrada por DevSuperior, Professor *Nelio Alves*.
 
 **Tecnologias Utilizadas.**
 
@@ -14,11 +13,11 @@
 
     PostgreeSql
 
-    * Postman
+    Postman
 
-    * Gerenciador de Dependencias Maven
+    Gerenciador de Dependencias Maven
 
-    * IDE: Spring Tools Suite
+    IDE: Spring Tools Suite
 
 
     *Deploy do backend no Heroku*
@@ -34,7 +33,7 @@
 
     CSS
 
-    *IDE: VS Code
+    IDE: VS Code
 
     *Deploy do frontend no Netlify*
 
